@@ -1,0 +1,13 @@
+Source: mx-fluxbox-about
+Section: system
+Priority: optional
+Maintainer: fehlix <fehlix@mxlinux.org>
+Build-Depends: debhelper (>= 9.20120115)
+Standards-Version: 3.9.4
+Homepage: https://mxlinux.org
+
+Package: mx-fluxbox-about
+Depends: mx-fluxbox, python-pyqt5, xdotool, yad (>= 0.26)
+Architecture: all
+Description: MX-Fluxbox About
+ Popup box about MX-Fluxbox version and release
