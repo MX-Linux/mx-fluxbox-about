@@ -1,3 +1,9 @@
+mx-fluxbox-about (21.03.01) mx; urgency=medium
+
+  * python3 adjustments 
+
+ -- fehlix <fehlix@mxlinux.org>  Sat, 06 Mar 2021 17:52:57 -0400
+
 mx-fluxbox-about (20.08.04) mx; urgency=medium
 
   * mx-fluxbox-about initial release
