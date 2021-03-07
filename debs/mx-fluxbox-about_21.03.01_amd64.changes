@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 06 Mar 2021 17:52:57 -0400
+Source: mx-fluxbox-about
+Binary: mx-fluxbox-about
+Architecture: source all
+Version: 21.03.01
+Distribution: mx
+Urgency: medium
+Maintainer: fehlix <fehlix@mxlinux.org>
+Changed-By: fehlix <fehlix@mxlinux.org>
+Description:
+ mx-fluxbox-about - MX-Fluxbox About
+Changes:
+ mx-fluxbox-about (21.03.01) mx; urgency=medium
+ .
+   * python3 adjustments
+Checksums-Sha1:
+ cd7d2c09be400fcfd0c5cdab7849d0f0128b3602 1516 mx-fluxbox-about_21.03.01.dsc
+ 06eebcb9f1f1881ba5e1d7e93de808a803babe7a 69620 mx-fluxbox-about_21.03.01.tar.xz
+ 2bca7c27a271a73c70f07ba2f4f90123621694bd 54464 mx-fluxbox-about_21.03.01_all.deb
+ a862ce5c4e0c5489774ba362eca1ed9f5732d252 5887 mx-fluxbox-about_21.03.01_amd64.buildinfo
+Checksums-Sha256:
+ a385bf6893dac1460710c4b80c8a2b3ef5f6aaedb49e1e13b026cb3be4a5458b 1516 mx-fluxbox-about_21.03.01.dsc
+ 05657c78a4cab31b222dbf39f488985893cfcefe9ecc12de31fc5a90b4b03374 69620 mx-fluxbox-about_21.03.01.tar.xz
+ b914c79461f30e6b0da13a83cf8bd88980be81bfb9d59bf471b013d1a2b9d961 54464 mx-fluxbox-about_21.03.01_all.deb
+ 1ac3e1430fbee8e00816c106df7a85dc920f4f011603fbedb3ce4d12573d07e7 5887 mx-fluxbox-about_21.03.01_amd64.buildinfo
+Files:
+ e8e01cc1c7741e15bc995591e7d38c2a 1516 system optional mx-fluxbox-about_21.03.01.dsc
+ b53d3ccdd094e8c2765659ac2804bb92 69620 system optional mx-fluxbox-about_21.03.01.tar.xz
+ 20da801238156e5ecbac2e9a86a1453c 54464 system optional mx-fluxbox-about_21.03.01_all.deb
+ 0195fe436b0b1df1c38c6d9501b68562 5887 system optional mx-fluxbox-about_21.03.01_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJHBAEBCgAxFiEEgRnC8/wKXRM2S0xLL1ePG6ydm+kFAmBEGBgTHGZlaGxpeEBt
+eGxpbnV4Lm9yZwAKCRAvV48brJ2b6VBbD/4zI5PATxxS/QpdWQSbX1HUoNcYViDy
+nB2vbDhHWnS+s/QpfWgnwTIsJYZ/izquQ8kqYczOCWZEYZgXZxt9u3SF47D1OMQG
+arPRdg/uQaTUITmPZitgLfKCkJF9J7Fv8YjNGr421qFEq3uAx/M8qSGWBCTPKAKR
+Ra8vytK3n43AGEu4JuTBFiqO8v5zx5HZYiMiF0r0NMnOHXDc0cxeX6iyRzNSjrKB
+EjYoqP0LnL65aEDiHGDwBlwJtH/v+IC1EoB7f/wKwI/gEWN/abYUuFQZ+hoiic7c
+m5cqKj2xLkWUlNWmHXUNZl5ElFRX1XqMBba3odq1BAwPf9xGJb/eiOqJ3uISi0zh
+/3RHEa7NvG9XqSX3KtOBLUtAQdZl+hSZSRfp8xLrzpuGgiXebsdrfNusqLU2AbfZ
+HsmYAIAC7H87T+Pa3EvaJ2x3rDUrcqtHc8WMd0T0NdgjHMQLsMe6BEpIRHp9iovb
+X0Z+IGPUorMImUDOpS3wNht50uAAYY24G4DB+IHRMcOY4tvZntuV2rC4QXfnUMB2
+usNlwqcWGZAzEKKc5vM7z4f1/UUQnzqjejgS0gDM8hKzkkJ0fOeoxFOXYrMHfpA/
+2gPm9HS2nnmUvo67MjpnxZABTLO8c4lMGa/l2O9tOXW3kX8ClctuooZ9by53acgO
+pVpPdclwKBd3Xg==
+=RlyI
+-----END PGP SIGNATURE-----
