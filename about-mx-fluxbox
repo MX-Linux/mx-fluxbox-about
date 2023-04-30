@@ -53,7 +53,7 @@ windowIcon   = 'mxflux'
 # translations
 about               = _('MX-Fluxbox')
 aboutTitle          = _('About MX-Fluxbox')
-aboutText           = _('A version of fluxbox developed specifically as a fully integrated overlay for MX Linux.')
+aboutText           = _('A version of Fluxbox with settings developed specifically for MX Linux.')
 changelogButtonText = _('Changelog')
 changelogTitle      = _('MX-Fluxbox Changelog')
 closeButtonText     = _('Close')

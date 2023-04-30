@@ -1,3 +1,10 @@
+mx-fluxbox-about (21.03.01+nmu1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * Updated aboutText
+
+ -- Jerry <jb@mx>  Sun, 30 Apr 2023 07:07:16 -0400
+
 mx-fluxbox-about (21.03.01) mx; urgency=medium
 
   * python3 adjustments 
@@ -9,4 +16,5 @@ mx-fluxbox-about (20.08.04) mx; urgency=medium
   * mx-fluxbox-about initial release
 
  -- fehlix <fehlix@mxlinux.org>  Wed, 05 Aug 2020 02:53:46 +0200
+
 
